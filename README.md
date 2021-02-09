@@ -282,6 +282,8 @@ DELETE `/tasks/:id`
         "__v": 0
     }
 
+Special thanks to [Andrew Mead](https://www.udemy.com/user/andrewmead/)
+
 
     
 
