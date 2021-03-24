@@ -1,9 +1,12 @@
 # Task Manager API
-
+ 
 A [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) based API to manage tasks or to-do lists. Create tasks and track which ones are completed. Built with [Node](https://nodejs.org/en/) and a [mongoDB](https://www.mongodb.com/) back-end. 
 
 The API returns JSON-encoded responses and uses standard HTTP response codes, authentication, and verbs.
 
+**DO NOT USE IN PRODUCTION**
+
+This was built for learning purposes only.
 The current version of the API lives at `https://hagen-task-manager.herokuapp.com`.
 
 ## Quick Start
